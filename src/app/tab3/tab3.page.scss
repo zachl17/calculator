@@ -1,1 +1,12 @@
-
+ion-title {
+    text-align: center;
+}
+.profile-pic{
+    width: 200px; 
+    height: 200px;
+    border: gray solid 1px;
+    margin: 10px auto;
+}
+ion-card-content, ion-card-header{
+    background-color: #e0e0eb;
+}

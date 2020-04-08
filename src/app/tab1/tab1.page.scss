@@ -1,4 +1,30 @@
-.welcome-card img {
-  max-height: 35vh;
-  overflow: hidden;
+#calculator-form1 {
+    padding: 50px;
+}
+
+ion-title {
+    text-align: center;
+}
+
+#calculator-input1 {
+    text-align: center;
+}
+
+#calculator-container3,
+#calculator-container6,
+#calculator-container7,
+#calculator-container8,
+#calculator-container9 {
+    padding-left: 100px;
+}
+
+#calculator-container3 > *,
+#calculator-container6 > *,
+#calculator-container7 > *,
+#calculator-container8 > *,
+#calculator-container9 > * {
+    margin: 1px;
+    border: 1px solid black;
+    width: 48px;
+    height: 48px;
 }
